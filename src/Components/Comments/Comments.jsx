@@ -53,7 +53,6 @@ const Comments = () => {
                   o`zgarishlar kiritdi
                 </p>
                 <div className="SwiperSlide_author">B. Yoqubov</div>
-
                 <span>Foydalanuvchi</span>
               </div>
             </SwiperSlide>
